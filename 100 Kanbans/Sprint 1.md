@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## To Do
@@ -13,10 +15,6 @@ kanban-plugin: board
 	
 	#gamedesign #code 
 	#elena #ego
-- [ ] ### Player Controls
-	
-	#code 
-	#emil #ego
 - [ ] ### Game UI Prototype
 	- main menu
 	- credits
@@ -102,6 +100,12 @@ kanban-plugin: board
 
 ## In Progress
 
+- [ ] ### Player Controls
+	
+	zaaa
+	
+	#code 
+	#emil #ego
 
 
 ## Test
