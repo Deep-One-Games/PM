@@ -6,6 +6,7 @@
       {
         "id": "697bac6d2cac51e4",
         "type": "tabs",
+        "dimension": 67.767929089444,
         "children": [
           {
             "id": "fe8939fc61845d57",
@@ -29,6 +30,80 @@
             }
           }
         ]
+      },
+      {
+        "id": "3f49a5bc0d940237",
+        "type": "tabs",
+        "dimension": 16.116035455278002,
+        "children": [
+          {
+            "id": "f54f0ec33581a0f3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "101 Canvas/August Game Jam Idea.canvas",
+                "viewState": {
+                  "x": 789.3755511535721,
+                  "y": 678.3221698749651,
+                  "zoom": -0.3888888336994052
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "August Game Jam Idea"
+            }
+          }
+        ]
+      },
+      {
+        "id": "aef42dfff384b485",
+        "type": "split",
+        "dimension": 16.116035455278002,
+        "children": [
+          {
+            "id": "b5c907f634723c68",
+            "type": "tabs",
+            "dimension": 75.3932584269663,
+            "children": [
+              {
+                "id": "6496ba5e4527c9a0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 Index/Team Interests.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Team Interests"
+                }
+              }
+            ]
+          },
+          {
+            "id": "c86fbdd315340882",
+            "type": "tabs",
+            "dimension": 24.60674157303371,
+            "children": [
+              {
+                "id": "a0b96ffeed992148",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "tagbank.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "tagbank"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -181,10 +256,10 @@
   },
   "active": "fe8939fc61845d57",
   "lastOpenFiles": [
+    "101 Canvas/August Game Jam Idea.canvas",
     "tagbank.md",
     "100 Kanbans/Sprint 1.md",
     "100 Kanbans/Sprint 2.md",
-    "101 Canvas/August Game Jam Idea.canvas",
     "101 Canvas/Game Ideas.canvas",
     "000 Index/The Lake Is A Mother.md",
     "000 Index/Alecs Idea.md",
