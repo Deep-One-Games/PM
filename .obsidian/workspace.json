@@ -1,0 +1,296 @@
+{
+  "main": {
+    "id": "4702726f38b742d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "697bac6d2cac51e4",
+        "type": "tabs",
+        "dimension": 67.767929089444,
+        "children": [
+          {
+            "id": "fe8939fc61845d57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tagbank.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tagbank"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3f49a5bc0d940237",
+        "type": "tabs",
+        "dimension": 16.116035455278002,
+        "children": [
+          {
+            "id": "f54f0ec33581a0f3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "101 Canvas/August Game Jam Idea.canvas",
+                "viewState": {
+                  "x": 789.3755511535721,
+                  "y": 678.3221698749651,
+                  "zoom": -0.3888888336994052
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "August Game Jam Idea"
+            }
+          }
+        ]
+      },
+      {
+        "id": "aef42dfff384b485",
+        "type": "split",
+        "dimension": 16.116035455278002,
+        "children": [
+          {
+            "id": "b5c907f634723c68",
+            "type": "tabs",
+            "dimension": 75.3932584269663,
+            "children": [
+              {
+                "id": "6496ba5e4527c9a0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 Index/Team Interests.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Team Interests"
+                }
+              }
+            ]
+          },
+          {
+            "id": "c86fbdd315340882",
+            "type": "tabs",
+            "dimension": 24.60674157303371,
+            "children": [
+              {
+                "id": "a0b96ffeed992148",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "tagbank.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "tagbank"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bcac3a34edbfe4f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "440a703fbb2b9115",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09dc30bb36cf1645",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7aa890de1e7a1932",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9cb34484e7d5db2b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4593f8061fb5cffc",
+    "type": "split",
+    "children": [
+      {
+        "id": "15d7cf63e039ec59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47dafbaf99e72eb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "956af624f4da00c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "32720224cc07c9ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "39fd4148bd93a239",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "tldraw:Create new tldrawing": false,
+      "markwhen:Create new Markwhen file": false
+    }
+  },
+  "active": "09dc30bb36cf1645",
+  "lastOpenFiles": [
+    "100 Kanbans/Sprint 1.md",
+    "100 Kanbans/Sprint 2.md",
+    "101 Canvas/August Game Jam Idea.canvas",
+    "101 Canvas/Game Ideas.canvas",
+    "000 Index/The Lake Is A Mother.md",
+    "000 Index/Alecs Idea.md",
+    "000 Index/Game Jam Idea.md",
+    "000 Index/Greg's Game.md",
+    "000 Index/Team Interests.md",
+    "000 Index/SuckItUp Themed Phishing Game.md",
+    "tagbank.md",
+    "101 Canvas/Combined Idea.md",
+    "200 Files/Pasted image 20250802135937 1.png",
+    "200 Files/1-5.webp",
+    "200 Files/1580802355_podvodnaya-bratva-5.webp",
+    "200 Files/ycoAAAAASUVORK5CYII.webp",
+    "200 Files/utenj6ql5fk31.webp",
+    "200 Files/Pasted image 20250802135209.jpg",
+    "200 Files/Pasted image 20250802143944.png",
+    "200 Files/Pasted image 20250802143901.png",
+    "200 Files/Pasted image 20250802143635.png",
+    "200 Files/Pasted image 20250802143628.png",
+    "000 Index/awidh.md",
+    "100 Kanbans/Sprint 3.md",
+    "100 Kanbans/Sprint 4.md",
+    "100 Kanbans/Sprint 5.md",
+    "000 Index/Art.md",
+    "000 Index/World Design.md",
+    "000 Index/3D Textures.md",
+    "000 Index/Wihdiwh.md",
+    "102 Whiteboards",
+    "101 Canvas",
+    "000 Index/Hello?.md",
+    "100 Kanbans/Tldraw 2025-08-02 4.36PM.md",
+    "200 Files.md",
+    "200 Files",
+    "100 Kanbans",
+    "000 Index",
+    "Untitled Kanban.md",
+    "Welcome.md",
+    "Pasted image 20250802162011.md",
+    "qdad adawidnh.md",
+    "Untitled.canvas"
+  ]
+}

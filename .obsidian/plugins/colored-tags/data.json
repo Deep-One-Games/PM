@@ -1,0 +1,39 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "emil": 1,
+    "greg": 2,
+    "elena": 3,
+    "ego": 4,
+    "kruglov": 5,
+    "ster": 6,
+    "kora": 7,
+    "leit": 8,
+    "alec": 9,
+    "character_art": 10,
+    "environmental_art": 11,
+    "sound": 12,
+    "code": 13,
+    "gamedesign": 14,
+    "story": 15,
+    "character": 16,
+    "character/art": 1,
+    "environmental": 17,
+    "environmental/art": 1,
+    "test": 18,
+    "test/emil": 1,
+    "egocards": 19,
+    "3d": 20,
+    "2d": 21
+  },
+  "_version": 3
+}

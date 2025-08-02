@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"ebe9e8f32ba3d21a","type":"file","file":"200 Files/Pasted image 20250802143311.png","x":467,"y":-500,"width":400,"height":225},
+		{"id":"0559cf3857368d96","type":"file","file":"200 Files/Pasted image 20250802143353.png","x":467,"y":-220,"width":399,"height":182},
+		{"id":"4cc7b0b5deb30b2d","type":"file","file":"200 Files/Pasted image 20250802143302.png","x":467,"y":0,"width":400,"height":225},
+		{"id":"8a5f85abe35ddfb5","type":"file","file":"200 Files/Pasted image 20250802143323.png","x":467,"y":280,"width":400,"height":225},
+		{"id":"fd274bf1922583bb","type":"file","file":"200 Files/Pasted image 20250802143435.png","x":467,"y":540,"width":399,"height":182},
+		{"id":"874f7efe4e984921","type":"file","file":"200 Files/Pasted image 20250802143453.png","x":467,"y":800,"width":399,"height":182},
+		{"id":"afdd6041ae902747","type":"file","file":"200 Files/Pasted image 20250802143516.png","x":920,"y":-220,"width":400,"height":225},
+		{"id":"069ccb2a68b751da","type":"file","file":"200 Files/Pasted image 20250802143522.png","x":920,"y":55,"width":400,"height":225},
+		{"id":"f30b95897845d4ea","type":"file","file":"200 Files/Pasted image 20250802143531.png","x":920,"y":350,"width":400,"height":225},
+		{"id":"91917659f60b6903","type":"file","file":"200 Files/Pasted image 20250802143550.png","x":1380,"y":-220,"width":400,"height":225},
+		{"id":"04d65a0551b41282","type":"file","file":"200 Files/Pasted image 20250802143601.png","x":1380,"y":55,"width":400,"height":225},
+		{"id":"946706027f80e2dc","type":"file","file":"200 Files/Pasted image 20250802143608.png","x":1380,"y":-500,"width":400,"height":225},
+		{"id":"af91c36e768ed105","type":"file","file":"200 Files/Pasted image 20250802143621.png","x":1380,"y":-780,"width":400,"height":225},
+		{"id":"df2ea4557ca27602","type":"file","file":"200 Files/Pasted image 20250802143628.png","x":1380,"y":350,"width":400,"height":225},
+		{"id":"3a11771c0b383e58","type":"file","file":"200 Files/Pasted image 20250802143635.png","x":1380,"y":631,"width":400,"height":225},
+		{"id":"1e50febd06f74c2e","type":"link","url":"https://lutik327.itch.io/teardrop","x":1840,"y":-780,"width":1240,"height":1275},
+		{"id":"9f6ef951acfc1abe","type":"file","file":"200 Files/Pasted image 20250802143901.png","x":1380,"y":920,"width":400,"height":225},
+		{"id":"1ac3618e61f5a01d","type":"file","file":"000 Index/Game Jam Idea.md","x":-260,"y":-500,"width":708,"height":1700},
+		{"id":"6932788717507e49","type":"file","file":"200 Files/Pasted image 20250802143944.png","x":-260,"y":1280,"width":708,"height":400}
+	],
+	"edges":[]
+}
