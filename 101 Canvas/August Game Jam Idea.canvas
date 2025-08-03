@@ -3,7 +3,6 @@
 		{"id":"ebe9e8f32ba3d21a","type":"file","file":"200 Files/Pasted image 20250802143311.png","x":467,"y":-500,"width":400,"height":225},
 		{"id":"0559cf3857368d96","type":"file","file":"200 Files/Pasted image 20250802143353.png","x":467,"y":-220,"width":399,"height":182},
 		{"id":"4cc7b0b5deb30b2d","type":"file","file":"200 Files/Pasted image 20250802143302.png","x":467,"y":0,"width":400,"height":225},
-		{"id":"8a5f85abe35ddfb5","type":"file","file":"200 Files/Pasted image 20250802143323.png","x":467,"y":280,"width":400,"height":225},
 		{"id":"fd274bf1922583bb","type":"file","file":"200 Files/Pasted image 20250802143435.png","x":467,"y":540,"width":399,"height":182},
 		{"id":"874f7efe4e984921","type":"file","file":"200 Files/Pasted image 20250802143453.png","x":467,"y":800,"width":399,"height":182},
 		{"id":"afdd6041ae902747","type":"file","file":"200 Files/Pasted image 20250802143516.png","x":920,"y":-220,"width":400,"height":225},
@@ -18,7 +17,8 @@
 		{"id":"1e50febd06f74c2e","type":"link","url":"https://lutik327.itch.io/teardrop","x":1840,"y":-780,"width":1240,"height":1275},
 		{"id":"9f6ef951acfc1abe","type":"file","file":"200 Files/Pasted image 20250802143901.png","x":1380,"y":920,"width":400,"height":225},
 		{"id":"1ac3618e61f5a01d","type":"file","file":"000 Index/Game Jam Idea.md","x":-260,"y":-500,"width":708,"height":1700},
-		{"id":"6932788717507e49","type":"file","file":"200 Files/Pasted image 20250802143944.png","x":-260,"y":1280,"width":708,"height":400}
+		{"id":"6932788717507e49","type":"file","file":"200 Files/Pasted image 20250802143944.png","x":-260,"y":1280,"width":708,"height":400},
+		{"id":"8a5f85abe35ddfb5","type":"file","file":"200 Files/Pasted image 20250802143323.png","x":468,"y":260,"width":398,"height":224}
 	],
 	"edges":[]
 }

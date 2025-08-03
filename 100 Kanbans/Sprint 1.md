@@ -6,58 +6,20 @@ kanban-plugin: board
 
 ## To Do
 
-- [ ] ### Racing Mechanics
-	
-	#gamedesign #code 
-	#greg #ego
-- [ ] ### Fishing Mechanics
-	
-	
-	#gamedesign #code 
-	#elena #ego
-- [ ] ### Game UI Prototype
-	- main menu
-	- credits
-	- options
-	
-	#code 
-	#emil
-- [ ] ### Lake Prototype
-	- Placeholder with boxes
-	
-	#environmental/art 
-	
-	#emil #kruglov
-- [ ] ### Main Character 
-	
-	#character/art #3d #2d 
-	#kora #leit #kruglov
 - [ ] ### Fish Prototypes
 	6 Normal Fish
 	#3d 
 	#emil #kruglov #kora
+- [ ] ### Racing Mechanics
+	
+	#gamedesign #code 
+	#ego #emil
 - [ ] ### Fishmen Prototypes
 	1 Fishman prototype
 	#3d 
 	#kruglov #kora
-- [ ] ### Portrait Art
-	Entities within the game
-	- [ ] 1 Fishman
-	- [ ] 6 Normal
-	
-	#leit #kora
-- [ ] ### Inventory System
-	Story told through here! Via lore items
-	
-	#emil #ego
 - [ ] ### Narrative System
 	For interacting with fishmen
-	#code 
-	#emil #ego
-- [ ] ### Upgrade System
-	Fishing rod
-	Better lure
-	
 	#code 
 	#emil #ego
 - [ ] ### Music
@@ -96,21 +58,61 @@ kanban-plugin: board
 	- [ ] Postprocessing
 	
 	#emil #elena
+- [ ] ### Inventory Description Pagination
+	
+	Add pagination to the lore tab
+	
+	#emil
 
 
 ## In Progress
 
-- [ ] ### Player Controls
+- [ ] ### Lake Prototype
+	- Placeholder with boxes
 	
-	zaaa
+	#environmental/art 
+	
+	#emil #kruglov
+- [ ] ### Fishing Mechanics
+	
+	
+	#gamedesign #code 
+	#elena #ego
+- [ ] ### Player Controls
 	
 	#code 
 	#emil #ego
+- [ ] ### Upgrade System
+	Fishing rod
+	Better lure
+	
+	#code 
+	#emil #ego
+- [ ] ### Portrait Art
+	Entities within the game
+	- [ ] 1 Fishman
+	- [ ] 6 Normal
+	
+	#leit #kora
+- [ ] ### Main Character 
+	
+	#character/art #3d #2d 
+	#kora #leit #kruglov
 
 
 ## Test
 
-- [ ] 
+- [ ] ### Game UI Prototype
+	- main menu
+	- credits
+	- options
+	
+	#code 
+	#emil
+- [ ] ### Inventory System
+	Story told through here! Via lore items
+	
+	#emil #ego
 
 
 ## Done
