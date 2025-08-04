@@ -52,17 +52,49 @@ kanban-plugin: board
 	
 	#3d #environmental/art 
 	#emil #kruglov
-- [ ] ### Shaders
-	
-	- [ ] Reflective water shader
-	- [ ] Postprocessing
-	
-	#emil #elena
 - [ ] ### Inventory Description Pagination
 	
 	Add pagination to the lore tab
 	
 	#emil
+- [ ] ### Town Environment
+	 - [ ] House 1
+	- [ ] House 2
+	- [ ] House 3
+	- [ ] Fish Police Building
+	
+	- [ ] Lighting Fixtures
+	
+	- [ ] Watch Tower
+	- [ ] Town Bridge
+	
+	#environmental 
+	#kruglov
+- [ ] ### Wild Environment
+	- [ ] Trees
+	- [ ] Bushes
+	- [ ] Vines
+	
+	#environmental 
+	#emil
+- [ ] ### Fishing Environment
+	- [ ] Fishing Rod
+	- [ ] Fish Bait
+	- [ ] Fish Racing Stadium
+	
+	#environmental 
+	#kruglov #emil
+- [ ] ### Props Environment
+	
+	- [ ] Barrels
+	- [ ] Boxes
+	- [ ] Shovels
+	- [ ] Rakes
+	#emil #kruglov 
+	#environmental 
+	
+	![[Pasted image 20250804133451.png]]
+	![[Pasted image 20250804133442.png]]
 
 
 ## In Progress
@@ -78,10 +110,6 @@ kanban-plugin: board
 	
 	#gamedesign #code 
 	#elena #ego
-- [ ] ### Player Controls
-	
-	#code 
-	#emil #ego
 - [ ] ### Upgrade System
 	Fishing rod
 	Better lure
@@ -98,6 +126,12 @@ kanban-plugin: board
 	
 	#character/art #3d #2d 
 	#kora #leit #kruglov
+- [ ] ### Shaders
+	
+	- [ ] Reflective water shader
+	- [x] Postprocessing
+	
+	#emil #kruglov
 
 
 ## Test
@@ -112,6 +146,10 @@ kanban-plugin: board
 - [ ] ### Inventory System
 	Story told through here! Via lore items
 	
+	#emil #ego
+- [ ] ### Player Controls
+	
+	#code 
 	#emil #ego
 
 
