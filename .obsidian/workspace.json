@@ -4,12 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "2cf7dffe575f4925",
+        "id": "697bac6d2cac51e4",
         "type": "tabs",
-        "dimension": 33.6289726533629,
         "children": [
           {
-            "id": "f54f0ec33581a0f3",
+            "id": "fe8939fc61845d57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Index/Alecs Idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alecs Idea"
+            }
+          },
+          {
+            "id": "0ae44b37fea15687",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -28,68 +41,23 @@
               "icon": "lucide-trello",
               "title": "Sprint 1"
             }
-          }
-        ]
-      },
-      {
-        "id": "bad8888cb9b4edb1",
-        "type": "tabs",
-        "dimension": 17.442719881744274,
-        "children": [
-          {
-            "id": "765e4f03ea3b9b96",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "101 Canvas/August Game Jam Idea.canvas",
-                "viewState": {
-                  "x": 963.1605859322766,
-                  "y": 458.6855495364846,
-                  "zoom": -1.8258207347003625
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "August Game Jam Idea"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b14ee4b1bdacb339",
-        "type": "tabs",
-        "dimension": 48.928307464892825,
-        "children": [
-          {
-            "id": "a0b96ffeed992148",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tagbank.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tagbank"
-            }
           },
           {
-            "id": "46cf28c1d725ec88",
+            "id": "4671036c6395b861",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Index/Prop List.md",
+                "file": "000 Index/Fishing Mechanics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prop List"
+              "title": "Fishing Mechanics"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,13 +110,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4593f8061fb5cffc",
@@ -242,37 +208,36 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "46cf28c1d725ec88",
+  "active": "4671036c6395b861",
   "lastOpenFiles": [
-    "200 Files/Pasted image 20250803185624.png",
-    "000 Index/Fishing Mechanics.md",
+    "200 Files/Pasted image 20250804180811.png",
     "100 Kanbans/Sprint 1.md",
+    "000 Index/2025-08-04.md",
+    "200 Files/Pasted image 20250804151649.png",
+    "200 Files/Pasted image 20250804151403.png",
+    "200 Files/Pasted image 20250804151314.png",
+    "000 Index/Fishing Mechanics.md",
     "200 Files/Pasted image 20250804133451.png",
     "200 Files/Pasted image 20250804133442.png",
     "000 Index/Prop List.md",
-    "101 Canvas/August Game Jam Idea.canvas",
-    "tagbank.md",
-    "000 Index/Team Interests.md",
-    "200 Files/21b2fadeaffb445d53b3b946a6d7ecd8.png",
-    "200 Files/9932ca3468e5c1326dfbfb977f30fc99.png",
-    "102 Whiteboards/Tldraw 2025-08-02 10.24PM.md",
-    "Excalidraw/Drawing 2025-08-02 22.23.46.excalidraw.md",
-    "Excalidraw/Drawing 2025-08-02 22.23.53.excalidraw.md",
-    "Excalidraw",
-    "100 Kanbans/Sprint 2.md",
-    "101 Canvas/Game Ideas.canvas",
+    "200 Files/Pasted image 20250803185624.png",
     "000 Index/The Lake Is A Mother.md",
     "000 Index/Alecs Idea.md",
-    "000 Index/Game Jam Idea.md",
     "000 Index/Greg's Game.md",
+    "000 Index/Game Jam Idea.md",
+    "200 Files/9932ca3468e5c1326dfbfb977f30fc99.png",
+    "200 Files/21b2fadeaffb445d53b3b946a6d7ecd8.png",
+    "102 Whiteboards/Tldraw 2025-08-02 10.24PM.md",
+    "102 Whiteboards",
+    "101 Canvas/August Game Jam Idea.canvas",
+    "101 Canvas/Game Ideas.canvas",
+    "tagbank.md",
+    "100 Kanbans/Sprint 2.md",
+    "000 Index/Team Interests.md",
     "000 Index/SuckItUp Themed Phishing Game.md",
     "101 Canvas/Combined Idea.md",
     "200 Files/Pasted image 20250802135937 1.png",
     "200 Files/1-5.webp",
-    "200 Files/1580802355_podvodnaya-bratva-5.webp",
-    "200 Files/ycoAAAAASUVORK5CYII.webp",
-    "200 Files/utenj6ql5fk31.webp",
-    "200 Files/Pasted image 20250802135209.jpg",
     "000 Index/awidh.md",
     "100 Kanbans/Sprint 3.md",
     "100 Kanbans/Sprint 4.md",
@@ -281,10 +246,10 @@
     "000 Index/World Design.md",
     "000 Index/3D Textures.md",
     "000 Index/Wihdiwh.md",
-    "102 Whiteboards",
     "101 Canvas",
     "000 Index/Hello?.md",
     "100 Kanbans/Tldraw 2025-08-02 4.36PM.md",
+    "200 Files.md",
     "200 Files",
     "100 Kanbans",
     "000 Index",
