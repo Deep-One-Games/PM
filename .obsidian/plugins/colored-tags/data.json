@@ -34,7 +34,14 @@
     "egocards": 19,
     "3d": 20,
     "2d": 21,
-    "tldraw": 22
+    "tldraw": 22,
+    "kapucho": 23,
+    "okami": 24,
+    "tutorial": 25,
+    "skit": 26,
+    "fishing": 27,
+    "gaming": 28,
+    "excalidraw": 29
   },
   "_version": 3
 }

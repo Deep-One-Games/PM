@@ -14,14 +14,6 @@ kanban-plugin: board
 	
 	#gamedesign #code 
 	#ego #emil
-- [ ] ### Fishmen Prototypes
-	1 Fishman prototype
-	#3d 
-	#kruglov #kora
-- [ ] ### Narrative System
-	For interacting with fishmen
-	#code 
-	#emil #ego
 - [ ] ### Music
 	- [ ] Village track
 	- [ ] Outside village track
@@ -57,19 +49,6 @@ kanban-plugin: board
 	Add pagination to the lore tab
 	
 	#emil
-- [ ] ### Town Environment
-	 - [ ] House 1
-	- [ ] House 2
-	- [ ] House 3
-	- [ ] Fish Police Building
-	
-	- [ ] Lighting Fixtures
-	
-	- [ ] Watch Tower
-	- [ ] Town Bridge
-	
-	#environmental 
-	#kruglov
 - [ ] ### Wild Environment
 	- [ ] Trees
 	- [ ] Bushes
@@ -132,6 +111,23 @@ kanban-plugin: board
 	- [x] Postprocessing
 	
 	#emil #kruglov
+- [ ] ### Town Environment
+	 - [x] House 1
+	- [x] House 2
+	- [ ] House 3
+	- [ ] Fish Police Building
+	
+	- [x] Lighting Fixtures
+	
+	- [x] Watch Tower
+	- [ ] Town Bridge
+	
+	#environmental 
+	#kruglov
+- [ ] ### Fishmen Prototypes
+	1 Fishman prototype
+	#3d 
+	#kruglov #kora
 
 
 ## Test
@@ -149,6 +145,10 @@ kanban-plugin: board
 	#emil #ego
 - [ ] ### Player Controls
 	
+	#code 
+	#emil #ego
+- [ ] ### Narrative System
+	For interacting with fishmen
 	#code 
 	#emil #ego
 
