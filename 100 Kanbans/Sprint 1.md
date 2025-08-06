@@ -6,6 +6,139 @@ kanban-plugin: board
 
 ## To Do
 
+
+
+## In Progress
+
+
+
+## Test
+
+
+
+## Done
+
+- [ ] ### Story Background
+	
+	#story 
+	#ego
+- [ ] ### Narrative System
+	For interacting with fishmen
+	#code 
+	#emil #ego
+- [ ] ### Player Controls
+	
+	#code 
+	#emil #ego
+- [ ] ### Inventory System
+	Story told through here! Via lore items
+	
+	#emil #ego
+- [ ] ### Game UI Prototype
+	- main menu
+	- credits
+	- options
+	
+	#code 
+	#emil
+- [ ] ### Lighting
+	Lighting Design 
+	
+	Directly within Godot
+	
+	#3d #environmental/art 
+	#emil #kruglov
+- [ ] ### Fishing Mechanics Design
+	
+	
+	#gamedesign #code 
+	#elena #ego
+- [ ] ### Fishman
+	
+	#kruglov
+- [ ] ### Main Character  Design
+	
+	#character/art #3d #2d 
+	#kora #leit #kruglov
+- [ ] ### NPC Patrolling & Interacting
+	
+	#code 
+	#emil #ego
+- [ ] ### Fishmen Prototypes
+	1 Fishman prototype
+	#3d 
+	#kruglov #kora
+
+
+## To Next Sprint
+
+- [ ] ### Props Environment
+	
+	- [ ] Barrels
+	- [ ] Boxes
+	- [ ] Shovels
+	- [ ] Rakes
+	#emil #kruglov 
+	#environmental 
+	
+	![[Pasted image 20250804133451.png]]
+	![[Pasted image 20250804133442.png]]
+- [ ] ### Town Environment
+	 - [x] House 1
+	- [x] House 2
+	- [x] House 3
+	- [ ] Fish Police Building
+	
+	- [x] Lighting Fixtures
+	
+	- [x] Watch Tower
+	- [ ] Town Bridge
+	
+	#environmental 
+	#kruglov
+- [ ] ### Shaders
+	
+	- [ ] Reflective water shader
+	- [x] Postprocessing
+	
+	#emil #kruglov
+- [ ] ### Lake Prototype
+	- Placeholder with boxes
+	
+	#environmental/art 
+	
+	#emil #kruglov
+- [ ] ### Portrait Art
+	Entities within the game
+	- [ ] 1 Fishman
+	- [ ] 6 Normal
+	
+	#leit #kora
+- [ ] ### Fishing Environment
+	- [ ] Fishing Rod
+	- [ ] Fish Bait
+	- [ ] Fish Racing Stadium
+	
+	#environmental 
+	#kruglov #emil
+- [ ] ### Upgrade System
+	Fishing rod
+	Better lure
+	
+	#code 
+	#emil #ego
+- [ ] ### Wild Environment
+	- [x] Trees
+	- [x] Bushes
+	- [ ] Vines
+	
+	#environmental 
+	#emil
+- [ ] ### Inventory Description Pagination
+	
+	Add pagination to the lore tab
+	
+	#emil
 - [ ] ### Fish Prototypes
 	6 Normal Fish
 	#3d 
@@ -37,130 +170,12 @@ kanban-plugin: board
 	
 	#sound 
 	#alec
-- [ ] ### Lighting
-	Lighting Design 
-	
-	Directly within Godot
-	
-	#3d #environmental/art 
-	#emil #kruglov
-- [ ] ### Inventory Description Pagination
-	
-	Add pagination to the lore tab
-	
-	#emil
-- [ ] ### Wild Environment
-	- [ ] Trees
-	- [ ] Bushes
-	- [ ] Vines
-	
-	#environmental 
-	#emil
-- [ ] ### Fishing Environment
-	- [ ] Fishing Rod
-	- [ ] Fish Bait
-	- [ ] Fish Racing Stadium
-	
-	#environmental 
-	#kruglov #emil
-- [ ] ### Props Environment
-	
-	- [ ] Barrels
-	- [ ] Boxes
-	- [ ] Shovels
-	- [ ] Rakes
-	#emil #kruglov 
-	#environmental 
-	
-	![[Pasted image 20250804133451.png]]
-	![[Pasted image 20250804133442.png]]
-
-
-## In Progress
-
-- [ ] ### Lake Prototype
-	- Placeholder with boxes
-	
-	#environmental/art 
-	
-	#emil #kruglov
-- [ ] ### Fishing Mechanics
-	
-	
-	#gamedesign #code 
-	#elena #ego
-- [ ] ### Upgrade System
-	Fishing rod
-	Better lure
-	
-	#code 
-	#emil #ego
-- [ ] ### Portrait Art
-	Entities within the game
-	- [ ] 1 Fishman
-	- [ ] 6 Normal
-	
-	#leit #kora
-- [ ] ### Main Character 
-	
-	#character/art #3d #2d 
-	#kora #leit #kruglov
-- [ ] ### Shaders
-	
-	- [ ] Reflective water shader
-	- [x] Postprocessing
-	
-	#emil #kruglov
-- [ ] ### Town Environment
-	 - [x] House 1
-	- [x] House 2
-	- [ ] House 3
-	- [ ] Fish Police Building
-	
-	- [x] Lighting Fixtures
-	
-	- [x] Watch Tower
-	- [ ] Town Bridge
-	
-	#environmental 
-	#kruglov
-- [ ] ### Fishmen Prototypes
-	1 Fishman prototype
-	#3d 
-	#kruglov #kora
-
-
-## Test
-
-- [ ] ### Game UI Prototype
-	- main menu
-	- credits
-	- options
-	
-	#code 
-	#emil
-- [ ] ### Inventory System
-	Story told through here! Via lore items
-	
-	#emil #ego
-- [ ] ### Player Controls
-	
-	#code 
-	#emil #ego
-- [ ] ### Narrative System
-	For interacting with fishmen
-	#code 
-	#emil #ego
-
-
-## Done
-
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%
