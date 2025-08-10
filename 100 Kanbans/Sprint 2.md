@@ -37,25 +37,12 @@ kanban-plugin: board
 	- [ ] 6 Normal
 	
 	#leit #kora
-- [ ] ### Fishing Environment
-	- [ ] Fishing Rod
-	- [ ] Fish Bait
-	- [ ] Fish Racing Stadium
-	
-	#environmental 
-	#kruglov #emil
 - [ ] ### Upgrade System
 	Fishing rod
 	Better lure
 	
 	#code 
 	#emil #ego
-- [ ] ### Wild Environment
-	- [x] Trees
-	- [x] Bushes
-	- [ ] Vines
-	
-	#environmental
 - [ ] ### Music
 	- [ ] Village track
 	- [ ] Outside village track
@@ -73,15 +60,12 @@ kanban-plugin: board
 	- [ ] Reeling
 	- [ ] Lure Dropping In Water (blop)
 	- [ ] Fish wiggle noises
-	- [ ] 3 Fish NPC Voiceovers (like undertale)
+	- [ ] 2 (male/female) Fish NPC Voiceovers (like undertale)
 	
 	Emil can help make SFX samples
 	
 	#sound 
 	#alec
-- [ ] ### Create Fairy Cave Prototype
-	
-	#emil
 - [ ] ### Implement Cutscene Player Feature
 	
 	#emil
@@ -94,16 +78,41 @@ kanban-plugin: board
 - [ ] ### Sculpt Terrain
 - [ ] ### Write Dialogue
 - [ ] ### Write Fish Descriptions
+- [ ] ### [Bug] Mouse Capture Failing On Option Menu
+	
+	#emil
+- [ ] ### [Bug]  Mac Bug
+	When you get in game, at first things work
+	
+	The second you enter interactable npc zones, game screen freezes. Only the game UI renders
+	
+	Comes back after a while
 
 
 ## In Progress
 
+- [ ] ### Create Fairy Cave Prototype
+	
+	#emil
 - [ ] ### Shaders
 	
 	- [ ] Reflective water shader
 	- [x] Postprocessing
 	
 	#emil #kruglov
+- [ ] ### Wild Environment
+	- [x] Trees
+	- [x] Bushes
+	- [ ] Vines
+	
+	#environmental
+- [ ] ### Fishing Environment
+	- [x] Fishing Rod
+	- [ ] Fish Bait
+	- [ ] Fish Racing Stadium
+	
+	#environmental 
+	#kruglov #emil
 - [ ] ### Town Environment
 	 - [x] House 1
 	- [x] House 2
@@ -113,7 +122,8 @@ kanban-plugin: board
 	- [x] Lighting Fixtures
 	
 	- [x] Watch Tower
-	- [ ] Town Bridge
+	- [x] Town Bridge
+	- [x] Pier
 	
 	#environmental 
 	#kruglov

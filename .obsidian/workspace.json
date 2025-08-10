@@ -4,38 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "2cf7dffe575f4925",
-        "type": "tabs",
-        "dimension": 24.823321554770317,
-        "children": [
-          {
-            "id": "f54f0ec33581a0f3",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "100 Kanbans/Sprint 1.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Sprint 1"
-            }
-          }
-        ]
-      },
-      {
         "id": "bad8888cb9b4edb1",
         "type": "tabs",
-        "dimension": 64.19316843345112,
         "children": [
           {
             "id": "2a462d0e6a993633",
@@ -50,63 +20,8 @@
               "icon": "lucide-file",
               "title": "Spring 1 Review"
             }
-          },
-          {
-            "id": "f7dcfa83d6b413ae",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "100 Kanbans/Sprint 2.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Sprint 2"
-            }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "b14ee4b1bdacb339",
-        "type": "tabs",
-        "dimension": 10.983510011778563,
-        "children": [
-          {
-            "id": "a0b96ffeed992148",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tagbank.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tagbank"
-            }
-          },
-          {
-            "id": "46cf28c1d725ec88",
-            "type": "leaf",
-            "state": {
-              "type": "tldraw-view",
-              "state": {
-                "file": "102 Whiteboards/Fishing Probability Density Func.md"
-              },
-              "icon": "lucide-file",
-              "title": "Fishing Probability Density Func"
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4593f8061fb5cffc",
@@ -258,17 +172,22 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "f7dcfa83d6b413ae",
+  "active": "2a462d0e6a993633",
   "lastOpenFiles": [
+    "102 Whiteboards/Tldraw 2025-08-08 3.41PM.md",
+    "000 Index/Spring 1 Review.md",
+    "102 Whiteboards/Tldraw 2025-08-02 10.24PM.md",
+    "100 Kanbans/Sprint 2.md",
+    "Tldraw 2025-08-08 3.40PM.md",
+    "tagbank.md",
+    "102 Whiteboards/Fishing Probability Density Func.md",
+    "200 Files/08b4dffb-21ba-4f28-b541-c643abd6728d-tldrawFile.png",
+    "100 Kanbans/Sprint 1.md",
+    "200 Files/image.png",
     "200 Files/Pasted image 20250804204142.png",
     "200 Files/Pasted image 20250805165835.png",
-    "100 Kanbans/Sprint 1.md",
-    "100 Kanbans/Sprint 2.md",
     "101 Canvas/August Game Jam Idea.canvas",
-    "000 Index/Spring 1 Review.md",
-    "102 Whiteboards/Fishing Probability Density Func.md",
     "102 Whiteboards/Drawing 2025-08-05 14.24.27.excalidraw.md",
-    "102 Whiteboards/Tldraw 2025-08-02 10.24PM.md",
     "102 Whiteboards/Fishing Probability Densities.md",
     "000 Index/Prop List.md",
     "200 Files/Pasted image 20250804151649.png",
@@ -276,14 +195,10 @@
     "200 Files/Pasted image 20250804151403.png",
     "200 Files/Pasted image 20250804151314.png",
     "000 Index/2025-08-04.md",
-    "tagbank.md",
     "200 Files/Pasted image 20250803185624.png",
     "000 Index/Fishing Mechanics.md",
     "200 Files/Pasted image 20250804133451.png",
-    "200 Files/Pasted image 20250804133442.png",
     "000 Index/Team Interests.md",
-    "200 Files/21b2fadeaffb445d53b3b946a6d7ecd8.png",
-    "200 Files/9932ca3468e5c1326dfbfb977f30fc99.png",
     "Excalidraw/Drawing 2025-08-02 22.23.46.excalidraw.md",
     "Excalidraw/Drawing 2025-08-02 22.23.53.excalidraw.md",
     "Excalidraw",
@@ -298,7 +213,6 @@
     "100 Kanbans/Sprint 3.md",
     "100 Kanbans/Sprint 4.md",
     "100 Kanbans/Sprint 5.md",
-    "000 Index/Art.md",
     "102 Whiteboards",
     "101 Canvas",
     "200 Files",
